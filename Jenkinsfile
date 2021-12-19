@@ -42,7 +42,7 @@ stage(‘package’)
         steps{
           sh '''
           echo $dockerhub_PSW | docker login -u $dockerhub_USR --password-stdin
-          docker push deeksha/capstone:${GIT_COMMIT} 
+          docker push deekshaaa/capstone:${GIT_COMMIT} 
           docker logout
           '''
 
