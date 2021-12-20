@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: deekshaaa/capstone:${GIT_COMMIT} 
+        image: deekshaaa/capstone:08e214c109c2d17a9dbddaa0300aa19c88f3d6e5
         imagePullPolicy: IfNotPresent
         resources:
           limits:
