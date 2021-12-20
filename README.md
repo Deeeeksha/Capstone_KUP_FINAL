@@ -11,7 +11,7 @@ This app can do as follows:
 
 ![](docs/tasks.png)
 
-# Environment Variables
+# Environment Variables :-
 
 This app needs the following environment Variables
 
@@ -19,7 +19,7 @@ This app needs the following environment Variables
 - `MONGODB_DATABASE` Mongodb database name
 - `NODE_ENV` node environment
 
-# Docker
+# Docker :-
 
 you can run a container for development
 
@@ -28,19 +28,19 @@ npm install
 docker-compose up
 ```
 
-## Default User
+## Default User :-
 
 when the app is lauched, this will create an Admin user with the following credentials:
 
 - email: admin@localhost
 - password: adminpassword
 
-# Recursos
+# Recursos :-
 
 - [Materia Bootswatch](https://www.bootstrapcdn.com/bootswatch/)
 - [CSS Background uiGradients](https://uigradients.com/#Dull)
 
-# Tutorial
+# Tutorial :-
 
 This app was created with educational purposes, so you can found the tutorials in the following links:
 
