@@ -7,7 +7,7 @@ This app can do as follows:
 - CRUD Operations: create/read/update/delete Notes
 - Allows a user to do login and save his personal notes
 
-# Screenshots
+# Screenshots :-
 
 ![](docs/tasks.png)
 
