@@ -7,11 +7,11 @@ This app can do as follows:
 - CRUD Operations: create/read/update/delete Notes
 - Allows a user to do login and save his personal notes
 
-# Screenshots :-
+# Screenshots
 
 ![](docs/tasks.png)
 
-# Environment Variables :-
+# Environment Variables
 
 This app needs the following environment Variables
 
@@ -19,7 +19,7 @@ This app needs the following environment Variables
 - `MONGODB_DATABASE` Mongodb database name
 - `NODE_ENV` node environment
 
-# Docker :-
+# Docker
 
 you can run a container for development
 
